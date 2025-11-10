@@ -1,0 +1,372 @@
+Uri: http://fpdownload2.macromedia.com/get/shockwave/cabs/flash/swflash.cab
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\get\shockwave\cabs\flash\swflash.cab
+Content Type: application/vnd.ms-cab-compressed
+
+Uri: http://www.bayhaus.de/?id=699
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/?id=815
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index-1.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/bayhaus-impressum/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\bayhaus-impressum\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/bayhaus-profil/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\bayhaus-profil\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/bayhaus/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\bayhaus\index-1.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/datenschutz/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\datenschutz\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/css/standard.css?1533199755
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\css\standard-1.css
+Content Type: text/css
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/banner_bayhaus.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\banner_bayhaus-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/bayhaus.ico
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\bayhaus-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/farbverlauf_blau_weiss_04_gr_04.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\farbverlauf_blau_weiss_04_gr_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/heinerstadler.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\heinerstadler.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/heinrich_stadler.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\heinrich_stadler.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/suedpark/grundriss-1.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\suedpark\grundriss-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/suedpark/grundriss-2.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\suedpark\grundriss-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/suedpark/grundriss-3.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\suedpark\grundriss-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/bayhaus/images/suedpark/grundriss-4.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\bayhaus\images\suedpark\grundriss-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_alter-hof_30x25_02_1ad18b2109.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_alter-hof_30x25_02_1ad18b2109.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_alter-hof_30x25_02_68400385e7.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_alter-hof_30x25_02_68400385e7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_alter-hof_30x25_02_7805891a39.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_alter-hof_30x25_02_7805891a39.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_alter-hof_30x25_35af0eb17e.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_alter-hof_30x25_35af0eb17e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_alter-hof_30x25_b2d30eabd2.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_alter-hof_30x25_b2d30eabd2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_am_blumenanger_629857ca77.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_am_blumenanger_629857ca77.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_am_blumenanger_815584af78.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_am_blumenanger_815584af78.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_arnulfpark_42f47a0b0b.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_arnulfpark_42f47a0b0b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_arnulfpark_dfe7331922.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_arnulfpark_dfe7331922.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_elisenhof_110c8ba3c6.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_elisenhof_110c8ba3c6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_elisenhof_ea71536772.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_elisenhof_ea71536772.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_europaeisches_patentamt_90ba3a14ae.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_europaeisches_patentamt_90ba3a14ae.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_europaeisches_patentamt_9851bcb21b.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_europaeisches_patentamt_9851bcb21b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_karlstrasse-maxvorstadt_33d98bffe8.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_karlstrasse-maxvorstadt_33d98bffe8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_karlstrasse-maxvorstadt_caab77d7b4.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_karlstrasse-maxvorstadt_caab77d7b4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_klostergarten_st_anna_2_01_0f4db97bad.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_klostergarten_st_anna_2_01_0f4db97bad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_klostergarten_st_anna_2_01_6def96a4df.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_klostergarten_st_anna_2_01_6def96a4df.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_klostergarten_st_anna_2_01_e9b0e53870.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_klostergarten_st_anna_2_01_e9b0e53870.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_knoebelblock_30x25_01_51ad2201d6.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_knoebelblock_30x25_01_51ad2201d6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_knoebelblock_30x25_01_6ecb5e6811.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_knoebelblock_30x25_01_6ecb5e6811.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_knoebelblock_30x25_01_f47092f044.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_knoebelblock_30x25_01_f47092f044.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_max_drei_30x25_1bf6ba5a45.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_max_drei_30x25_1bf6ba5a45.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_max_drei_30x25_e30f118885.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_max_drei_30x25_e30f118885.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_modell-aussenansicht-2_7845605417.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_modell-aussenansicht-2_7845605417.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiaberg_eea5f75036.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiaberg_eea5f75036.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiaberg_f184abff3a.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiaberg_f184abff3a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiawohnpark-2_0292697a19.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiawohnpark-2_0292697a19.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiawohnpark-2_5cfcde70e9.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiawohnpark-2_5cfcde70e9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiawohnpark-2_a3a5852059.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiawohnpark-2_a3a5852059.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_olympiawohnpark_52d770ad51.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_olympiawohnpark_52d770ad51.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_parkside_05_798351bf9c.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_parkside_05_798351bf9c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_parkside_05_d178aea619.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_parkside_05_d178aea619.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_schellinghoefe_01_30x25_04_3782ecca76.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_schellinghoefe_01_30x25_04_3782ecca76.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_schellinghoefe_01_30x25_04_b3e1aa3fb2.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_schellinghoefe_01_30x25_04_b3e1aa3fb2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_schellinghoefe_01_30x25_04_d83b8ed82e.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_schellinghoefe_01_30x25_04_d83b8ed82e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_tassilohof_05_d18e99adc3.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_tassilohof_05_d18e99adc3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_theresienhoehe_6535f1593a.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_theresienhoehe_6535f1593a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_theresienhoehe_fe6f08230b.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_theresienhoehe_fe6f08230b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_weisser_riese_867b9464b8.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_weisser_riese_867b9464b8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_weisser_riese_8f8a37fe9b.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_weisser_riese_8f8a37fe9b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_welfenhoefe_30x25cm_04_f2073b5cde.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_welfenhoefe_30x25cm_04_f2073b5cde.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_winzererstrasse_b0a80bd037.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_winzererstrasse_b0a80bd037.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/fileadmin/_processed_/csm_winzererstrasse_e3dc55d224.jpg
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\fileadmin\_processed_\csm_winzererstrasse_e3dc55d224.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bayhaus.de/gewerbeobjekte/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\gewerbeobjekte\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=6964&md5=f634baa027a8159fa0d06f13fc5c07207cbb8e7d&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=7013&md5=f6fb6bc08c7eb2644e693cb75dc3189d926e225e&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-1.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=757&md5=5eb2784b95d339b1ef4591d6b7ee51e134136dbd&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-5.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=758&md5=bb1685c3d75f5a4b0a95c009ae8e5b68d14f89cc&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-6.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=759&md5=0afdf7c9b33643567cad07f9a69dd3eefb226996&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-7.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=760&md5=781ede9af00206253b5f0e239440fa698fc809fa&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-8.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=762&md5=0184b51edc3101ea68a8e0e374b24a60ae25c734&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-11.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=764&md5=40b10ba138db718f1d8dd0d1f33f8983b208d46a&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-9.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=765&md5=0c542057a27acc8997edeea9b49047850b17da4d&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-10.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=766&md5=e28f75d8a199d3a519f691384a104b2c09f704a2&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-12.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=767&md5=18e3bb048a30748946dc10d3b9145532ab0f9f0f&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-13.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=768&md5=571ed8a3b275640d4bf91dce852a29a3490c325e&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-14.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=769&md5=e18cbfa49b5e2677ded690fb5ba9cce39cd06340&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-15.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=770&md5=2d5902d031d3e538233688326e03f04b696fee86&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-16.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=771&md5=fa2de901887148b7e3156ed48e41837b2c0ddcf9&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-2.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=772&md5=bfc4909c8913d1c3f85e0d700848f242e414ef46&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-3.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/index.php?eID=tx_cms_showpic&file=773&md5=3680e522f30727ea4c9e294c2d5329303049a294&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjU6IjEwMDBtIjtzOjY6ImhlaWdodCI7czo0OiI2&parameters[1]=MDBtIjtzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters[2]=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6Mzc6IjxhIGhyZWY9Imph&parameters[3]=dmFzY3JpcHQ6Y2xvc2UoKTsiPiB8IDwvYT4iO30%3D
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\index.php-4.html
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/referenzen/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\referenzen\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/typo3/sysext/frontend/Resources/Public/JavaScript/jsfunc.validateform.js?1468924316
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\typo3\sysext\frontend\Resources\Public\JavaScript\jsfunc.validateform.js
+Content Type: application/javascript
+
+Uri: http://www.bayhaus.de/typo3conf/ext/slideshow/pi1/jpgrotator.swf
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\typo3conf\ext\slideshow\pi1\jpgrotator.swf
+Content Type: application/vnd.adobe.flash.movie
+
+Uri: http://www.bayhaus.de/typo3temp/stylesheet_cb98e5fdef.css?1421248494
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\typo3temp\stylesheet_cb98e5fdef-1.css
+Content Type: text/css
+
+Uri: http://www.bayhaus.de/wohnimmobilien/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/alter-hof/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\alter-hof\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/klostergarten/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\klostergarten\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/knoebelblock/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\knoebelblock\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/olympiawohnpark/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\olympiawohnpark\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/parkside/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\parkside\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/schellinghoefe/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\schellinghoefe\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/suedpark/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\suedpark\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/virtueller-spaziergang-durch-muenchen/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\virtueller-spaziergang-durch-muenchen\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/vormerken/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\vormerken\index.htm
+Content Type: text/html
+
+Uri: http://www.bayhaus.de/wohnimmobilien/welfenhoefe/
+File Name: C:\Downloaded Web Sites\www.bayhaus.de\wohnimmobilien\welfenhoefe\index.htm
+Content Type: text/html
+
