@@ -155,3 +155,14 @@ Folgende SEO-Architektur-Entscheidungen aus dem Plan wurden in der aktuellen Cod
     Ein massiv optimiertes JSON-LD Script (`SchemaMarkup.tsx`) wurde global ausgerollt. Im Gegensatz zur alten Seite sendet die neue Seite nun ein strukturiertes `RealEstateAgent`-Profil an Google und KI-Suchmaschinen (Perplexity/ChatGPT). Dieses Profil enthält spezifische Expertengebiete (`knowsAbout`), detaillierte Service-Kataloge und Geodaten für ein starkes lokales Münchner Ranking.
 4.  **Dynamische Sitemap & Live Robots.txt:**
     Ein dedizierter `SeoManager` und Firebase Cloud Functions (`sitemap.xml` und `robots.txt`) sorgen dafür, dass Crawler die neue React/Vite Applikation fehlerfrei durchsuchen können, was bei der alten statischen HTML Struktur nativ war, hier aber künstlich (SSR-ähnlich) simuliert werden musste.
+
+
+### Suchmaschinen-Vermächtnis (Search Engine Legacy - Stand Feb 2026)
+Eine Überprüfung des aktuellen Google-Index zeigt, warum die oben genannten Redirects so essenziell sind:
+
+1.  **Verwaiste, aber indexierte Exposés (Deep Links):**
+    Suchmaschinen haben noch immer alte Projekt- und Exposé-Seiten im Cache und Index (z. B. Projekte wie "FEEL.MUNICH", die Dachterrassenwohnung "Alter Hof", oder den "Olympia-Wohn-Park"). Diese Seiten werden von Google weiterhin als relevante Suchtreffer ausgespielt und generieren direkte Kundenanfragen, **obwohl sie auf der Navigation der alten Main-Page gar nicht mehr sichtbar verlinkt waren**.
+2.  **Starke externe Backlinks & Profile:**
+    Für die Suchbegriffe "Heiner Stadler Immobilien München" oder "Bayhaus Immobilien GmbH" ranken neben der Hauptdomain hochgradig vertrauenswürdige Backlink-Quellen ganz oben. Dazu zählen Profile auf: *Immobilienscout24, Immowelt, Creditreform, Companyhouse und Das Örtliche*. Diese verweisen alle auf die Root-Domain oder bestimmte Unterseiten.
+3.  **Fazit für den Relaunch:**
+    Das über Jahrzehnte gewachsene Ranking ist stark mit diesen spezifischen Deep-Links und alten URLs verwoben. Ohne die harten 301-Weiterleitungen der neuen Architektur (siehe Phase 0) würden Anfragen zu diesen alten "Geister-Exposés" ins Leere (404) laufen, was einen massiven Traffic- und Ranking-Verlust zur Folge hätte.
