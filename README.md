@@ -94,3 +94,51 @@ Auf der Seite /referenzen wurden signifikante Münchner Bauprojekte und Immobilie
 
 ---
 *Dieses README wurde automatisiert auf Basis des Quellcodes und der Übergabe-Dokumentation im Februar 2026 generiert.*
+
+## 6. Das Suchmaschinen-Vermächtnis (Status Quo 2026)
+
+### Das Phänomen "Toter" Exposes
+Kurz vor/während der Abschaltung der alten Seite wurde festgestellt, dass weiterhin konkrete Kundenanfragen zu spezifischen Bauprojekten (Exposés) der Vergangenheit (z.B. Alter Hof, Welfenhöfe) eingingen. Diese Exposés waren über die sichtbare Hauptnavigation teilweise gar nicht mehr prominent verlinkt.
+
+**Der Grund:** Suchmaschinen (insbesondere Google) haben über 10-15 Jahre hinweg ein tiefes "Gedächtnis" für die URL-Struktur von `bayhaus.de` aufgebaut. Auch wenn Seiten intern nicht mehr verlinkt waren, blieben sie im Google-Index erhalten und rankten weiterhin für spezifische Suchbegriffe (Long-Tail-Keywords wie z.B. "Wohnung Alter Hof München Immobilie").
+
+**Die ehemals indexierten Deep-Links (Beispiele):**
+*   `http://www.bayhaus.de/wohnimmobilien/alter-hof/` (und alle weiteren Projekte aus Sektion 5)
+*   `http://www.bayhaus.de/referenzen/`
+*   `http://www.bayhaus.de/gewerbeobjekte/`
+
+*Anmerkung zur Migration:* Um dieses wertvolle "SEO-Vermächtnis"  also die bereits bestehende Autorität und den Traffic  bei der neuen Seite nicht ins Leere laufen zu lassen (404-Fehler), ist es zwingend notwendig, diese alten URL-Pfade im neuen Firebase-Hosting per **301 Redirect** auf entsprechende neue Landingpages oder zumindest auf eine übergreifende Referenz-Seite umzuleiten.
+
+---
+
+## 7. Plan für eine umfassende holistische SEO- & Impact-Analyse
+
+Um den Übergang von der alten, historisch gewachsenen TYPO3-Seite zur neuen React/Firebase-Architektur messbar zu machen und zukünftige SEO-Strategien (wie *Answer Engine Optimization* - AEO) zu steuern, muss eine tiefgehende SEO-Strukturanalyse durchgeführt werden. Dieser Plan dient als Roadmap für die kommenden Monate.
+
+### Phase 1: Status Quo & Technical Baseline (Vor-/Während der Umstellung)
+1. **Google Search Console (GSC) Audit:**
+   *   Vollständiger Export aller indexierten URLs der alten Properties (`http://bayhaus.de`, `http://www.bayhaus.de`, `http://bayhaus.com` etc.) aus den letzten 16 Monaten.
+   *   Identifikation der "Top Pages" nach Klicks und Impressions  welche historischen Exposés bringen noch Traffic?
+2. **Backlink-Profil-Analyse:**
+   *   Auswertung historischer Backlinks (z.B. über Ahrefs, Semrush oder Majestic). Welche Domains verlinkten ehemals auf `bayhaus.de`? Gibt es wertvolle Links auf alte `/wohnimmobilien/...` Unterseiten?
+3. **Keyword-Gedächtnis untersuchen:**
+   *   Für welche generischen Keywords ("Immobilienmakler München") und spezifischen Long-Tail Keywords ("Klostergarten St. Anna Wohnungen") rankte die Seite historisch in den Top 100?
+
+### Phase 2: Redirect- & Struktur-Monitoring (Wochen 1-4 nach Livegang)
+1. **301-Redirect Mapping & Validierung:**
+   *   Sind alle wertvollen, alten URLs (aus Phase 1) sauber 301-weitergeleitet? (Keine 404 Fehler in der GSC).
+2. **Indexierungs-Geschwindigkeit:**
+   *   Wie schnell wird die neue Architektur von Google gecrawlt und verstanden?
+3. **Performance (Core Web Vitals):**
+   *   Die alte Seite war performant, weil sie reines, unverschlüsseltes HTTP und simples HTML war. Validierung der LCP, FID und CLS Werte der neuen Seite im echten Nutzer-Feld.
+
+### Phase 3: Zukunfts-SEO & AI-Discoverability (Monate 3-6 nach Livegang)
+1. **Answer Engine Optimization (AEO) Audit:**
+   *   Test-Queries in Perplexity, ChatGPT, Gemini: Wird BAYHAUS als Makler für gehobene Münchner Immobilien referenziert?
+   *   Prüfung des strukturierten Daten-Markups (JSON-LD) auf der neuen Seite.
+2. **E-E-A-T Profiling:**
+   *   Experience, Expertise, Authoritativeness, Trustworthiness. Bietet der neue Content genügend Tiefe gegenüber der rein rudimentären Textlänge der alten Seite?
+3. **Vergleichsmessung (Reporting):**
+   *   Vergleich der organischen Suchanfragen (Non-Brand) zwischen dem Zeitraum *Vor Umstellung* und *6 Monate nach Umstellung*. Hat der Architektur-Wechsel die Autorität der Domain gewahrt oder gesteigert?
+
+*Ziel dieser Analyse:* Der historische SEO-Wert der 20 Jahre alten Domain darf nicht durch den Relaunch zerstört werden. Durch dieses Framework stellen wir sicher, dass wir das Vorhandene bewahren und die Präsenz für zukünftige AI-Sprachmodelle ausbauen.
