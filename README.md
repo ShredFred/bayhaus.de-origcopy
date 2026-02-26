@@ -45,3 +45,52 @@ Die Domains (`bayhaus.de` und `bayhaus.com`) wurden nicht beim Webhoster direkt 
 *   **Eingefrorener Stand:** Dies ist ein "Read-Only" Archiv. Die archivierten Dateien sind stark veraltet und werden nicht mehr gewartet.
 *   **Datenschutz / Sicherheit:** Aufgrund fehlender Updates enthalten die alten TYPO3-Fragmente wahrscheinlich SicherheitslÃ¼cken. Sie dÃ¼rfen unter keinen UmstÃ¤nden wieder auf einem Ã¶ffentlichen Webserver produktiv geschaltet oder ausgefÃ¼hrt werden.
 *   **Fehlende Datenbank:** Da es sich oft bei solchen Mirrors um AbzÃ¼ge (Scrape / Download der fertig gerenderten Frontend-Dateien) handelt, ist die zugrundeliegende TYPO3-MySQL-Datenbank hier nicht zwangslÃ¤ufig enthalten. Die reinen Ausgabe-HTML-Dateien, CSS und Bilder der Seite sind jedoch zur Ansicht und als Dokumentation vorhanden.
+
+## 5. Website-Struktur & Ehemalige Inhalte
+
+Die alte Website war strukturell sehr einfach gehalten und diente primär als digitale Visitenkarte und Portfolio-Showcase.
+
+### Haupt-Navigation
+1.  **Bayhaus** (Startseite mit Unternehmensprofil)
+2.  **Wohnimmobilien** (Aktuelle Angebote & Projekte)
+3.  **Gewerbeobjekte** (Gewerbliche Angebote)
+4.  **Profil** (Über die Geschäftsführung, Historie)
+5.  **Referenzen** (Erfolgreich vermittelte/begleitete Großprojekte)
+6.  **Impressum & Datenschutz**
+
+### Bekannte Bauprojekte & Listings (Wohnimmobilien)
+Auf der Unterseite /wohnimmobilien waren unter anderem folgende dedizierte Landingpages bzw. Projekt-Exposés verlinkt:
+*   Alter Hof
+*   Klostergarten
+*   Knöbelblock
+*   Olympiawohnpark
+*   ParkSide
+*   Schellinghöfe
+*   Stadtquartier Am Südpark
+*   Welfenhöfe
+*   (Zusätzlich gab es eine Sektion 'Virtueller Spaziergang durch München')
+
+### Referenz-Projekte (Showcase)
+Auf der Seite /referenzen wurden signifikante Münchner Bauprojekte und Immobilien als Referenzen des Unternehmens aufgeführt:
+
+**Wohnimmobilien-Referenzen:**
+*   Klostergarten St. Anna im Lehel
+*   Alter Hof Kaiserresidenz
+*   Knöbelblock im Lehel
+*   Schellinghöfe in Schwabing
+*   Winzerer Straße Schwabing
+*   Wohnen am Olympiaberg
+*   ParkSide Agnes Bernauer Straße in Laim
+*   Am Blumenanger in Waldtrudering
+*   MAX III in Haidhausen, Innere Wiener Straße
+*   Karlshöfe in der Karlstraße Maxvorstadt
+*   Theresienhöhe  Wohnen am Park
+*   Stadtwohnungen im Grünen am Arnulfpark
+
+**Gewerbeobjekte-Referenzen:**
+*   Elisenhof Stachus
+*   Weißer Riese Arabellapark
+*   Europäisches Patentamt
+
+---
+*Dieses README wurde automatisiert auf Basis des Quellcodes und der Übergabe-Dokumentation im Februar 2026 generiert.*
