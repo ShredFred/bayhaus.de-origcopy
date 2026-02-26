@@ -166,3 +166,9 @@ Eine Überprüfung des aktuellen Google-Index zeigt, warum die oben genannten Redi
     Für die Suchbegriffe "Heiner Stadler Immobilien München" oder "Bayhaus Immobilien GmbH" ranken neben der Hauptdomain hochgradig vertrauenswürdige Backlink-Quellen ganz oben. Dazu zählen Profile auf: *Immobilienscout24, Immowelt, Creditreform, Companyhouse und Das Örtliche*. Diese verweisen alle auf die Root-Domain oder bestimmte Unterseiten.
 3.  **Fazit für den Relaunch:**
     Das über Jahrzehnte gewachsene Ranking ist stark mit diesen spezifischen Deep-Links und alten URLs verwoben. Ohne die harten 301-Weiterleitungen der neuen Architektur (siehe Phase 0) würden Anfragen zu diesen alten "Geister-Exposés" ins Leere (404) laufen, was einen massiven Traffic- und Ranking-Verlust zur Folge hätte.
+
+### Geplante Relaunch-Maßnahmen (SEO Migration & Content Audit)
+Aus den Analytics der aktiven (alten) Seite wurde abgeleitet, dass wir zwingend folgende Schritte im neuen System unternehmen müssen:
+1.  **Search Console Abgleich:** Wir identifizieren alle indexierten "Geister-Exposés", die Traffic bringen, im alten Repo als index.htm existieren, aber in der neuen App (noch) fehlen.
+2.  **Content-Gap Analyse:** Skriptgestützt vergleichen wir die Text-Längen (Detaillierungsgrad) alter HTML-Referenzen mit der neuen Firestore-Datenbank. Zu kurze Texte in der neuen Datenbank werden inhaltlich wiederhergestellt (aufgepeppt).
+3.  **Hard-Redirect Mapping:** Aufstellen einer 1-zu-1 Tabelle in der irebase.json, damit alle gefundenen, wertvollen alten URLs per 301-Redirect direkt auf ihr neues Äquivalent in der React-App (oder eine Fallback-Sammelseite) weiterleiten. Dadurch geht der "Link-Juice" bestehender Dritt-Referenzen (Immowelt, Creditreform) beim Umschalten nicht verloren.
