@@ -142,3 +142,16 @@ Um den Übergang von der alten, historisch gewachsenen TYPO3-Seite zur neuen Reac
    *   Vergleich der organischen Suchanfragen (Non-Brand) zwischen dem Zeitraum *Vor Umstellung* und *6 Monate nach Umstellung*. Hat der Architektur-Wechsel die Autorität der Domain gewahrt oder gesteigert?
 
 *Ziel dieser Analyse:* Der historische SEO-Wert der 20 Jahre alten Domain darf nicht durch den Relaunch zerstört werden. Durch dieses Framework stellen wir sicher, dass wir das Vorhandene bewahren und die Präsenz für zukünftige AI-Sprachmodelle ausbauen.
+
+
+### Phase 0: Bereits umgesetzte Baseline im aktuellen Code (Status Quo 2026)
+Folgende SEO-Architektur-Entscheidungen aus dem Plan wurden in der aktuellen Codebase (bayhaus-de-antigravity) bereits präventiv implementiert, um den SEO-Wert der alten Seite zu schützen:
+
+1.  **Deep-Link Retention (301 Redirects):**
+    In der `firebase.json` sind präventive Wildcard-Redirects (HTTP 301) konfiguriert. Diese leiten verwaiste Suchmaschinen-Links (wie z.B. `/wohnimmobilien/...` oder `/referenzen/...`) hart auf die neuen Haupt-Landingpages um. Das verhindert 404-Rankingeinbrüche und gibt den Link-Juice der alten Exposés weiter.
+2.  **Dynamische Meta- & Canonical-Tags:**
+    Über `react-helmet-async` wird auf jeder Unterseite (bis hinunter auf die dynamische `PropertyDetail.tsx`) der genaue Canonical-Link sowie dynamische OpenGraph (OG) Tags generiert. Dies verhindert Duplicate Content Probleme in der neuen SPA-Struktur.
+3.  **Advanced Answer Engine Optimization (AEO):**
+    Ein massiv optimiertes JSON-LD Script (`SchemaMarkup.tsx`) wurde global ausgerollt. Im Gegensatz zur alten Seite sendet die neue Seite nun ein strukturiertes `RealEstateAgent`-Profil an Google und KI-Suchmaschinen (Perplexity/ChatGPT). Dieses Profil enthält spezifische Expertengebiete (`knowsAbout`), detaillierte Service-Kataloge und Geodaten für ein starkes lokales Münchner Ranking.
+4.  **Dynamische Sitemap & Live Robots.txt:**
+    Ein dedizierter `SeoManager` und Firebase Cloud Functions (`sitemap.xml` und `robots.txt`) sorgen dafür, dass Crawler die neue React/Vite Applikation fehlerfrei durchsuchen können, was bei der alten statischen HTML Struktur nativ war, hier aber künstlich (SSR-ähnlich) simuliert werden musste.
